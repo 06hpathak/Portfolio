@@ -1,0 +1,42 @@
+[
+  {
+    "role": "Web Developer",
+    "organisation": "Ministry of Education (MoE) NMEICT Virtual Lab-III",
+    "startDate": "(Demenber, 2022",
+    "endDate": "Present)",
+    "experiences": ["Working on the development of simulations for mechanical experiments using HTML, CSS and JavaScript.",
+    "Working on JSON data handling while uploading experiment content on the Virtual Lab portal.",
+    "Collaborated with other team members using git/git hub version control system."],
+    "imageSrc": "history/virtuallab.jpg"
+  },
+  {
+    "role": "Brand Safety Executive",
+    "organisation": "Pixeltruth Pvt.Ltd, Agra",
+    "startDate": "(May, 2022",
+    "endDate": "October, 2022)",
+    "experiences": ["Developed and maintained the website of the company.",
+    "Worked on Chargeback projects under the brand safety department.", "Worked on Amazon projects under the brand safety department as a data analyst and SQL developer using the dashboard created by Amazon.","Worked on Simpl projects under the brand safety department as a data analyst and SQL developer using the dashboard created by Simpl.", "Worked on ITC projects under the brand safety department as a data analyst and SQL developer using the dashboard created by ITC."],
+    "imageSrc": "history/pixeltruth.jpeg"
+  },
+  {
+    "role": "Software Development Intern",
+    "organisation": "Dhwani Rural Information System Pvt. Ltd, Gurugram",
+    "startDate": "(July, 2021",
+    "endDate": "August, 2021)",
+    "experiences": [
+      "Worked on react-based web app project."
+    ],
+    "imageSrc": "history/dwani.png"
+  },
+  {
+    "role": "Python Django Intern",
+    "organisation": "Spectrics Solutions Pvt. Ltd, Ahmedabad",
+    "startDate": "(June, 2021",
+    "endDate": "July, 2021)",
+    "experiences": [
+      "Worked on the web app using django framework of python.",
+      "Maintained data flow through SQL."
+    ],
+    "imageSrc": "history/spectrics.png"
+  }
+]

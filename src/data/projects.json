@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Simulation for disc-type flywheel to determine its moment of inertia.",
+    "imageSrc": "projects/project.png",
+    "description": "Made this project using HTML, CSS and JavaScript during my internship at MoE NMEICT Virtual Lab-III.",
+    "skills": ["HTML", "JavaScript", "CSS","GitHub"],
+    "demo": "https://virtual-labs.github.io/exp-flywheel-dei/",
+    "source": "https://github.com/virtual-labs/exp-flywheel-dei"
+  },
+  {
+    "title": "Simulation for sliding and rolling bodies",
+    "imageSrc": "projects/project.png",
+    "description": "Made this project using HTML, CSS and JavaScript during my internship at MoE NMEICT Virtual Lab-III.",
+    "skills": ["HTML", "JavaScript", "CSS","GitHub"],
+    "demo": "https://virtual-labs.github.io/exp-inclined-plane-dei/",
+    "source": "https://github.com/virtual-labs/exp-inclined-plane-dei"
+  },
+  {
+    "title": "Simulation for acceleration due to gravity and terminal velocity.",
+    "imageSrc": "projects/project.png",
+    "description": "Made this project using HTML, CSS and JavaScript during my internship at MoE NMEICT Virtual Lab-III.",
+    "skills": ["HTML", "JavaScript", "CSS","GitHub"],
+    "demo": "https://virtual-labs.github.io/exp-drag-force-dei/",
+    "source": "https://github.com/virtual-labs/exp-drag-force-dei"
+  },
+  {
+    "title": "Simulation for coefficient of restitution and conservation of linear momentum.",
+    "imageSrc": "projects/project.png",
+    "description": "Made this project using HTML, CSS and JavaScript during my internship at MoE NMEICT Virtual Lab-III.",
+    "skills": ["HTML", "JavaScript", "CSS","GitHub"],
+    "demo": "https://virtual-labs.github.io/exp-conservation-of-momentum-dei/",
+    "source": "https://github.com/virtual-labs/exp-conservation-of-momentum-dei"
+  },
+  {
+    "title": "DEI CMS 3.0",
+    "imageSrc": "projects/project.png",
+    "description": "Created this project in Python using Django Framework as a major project for fulfillment of Diploma in Engineering.",
+    "skills": ["Python","Django","HTML", "JavaScript", "CSS","GitHub"],
+    "demo": "https://github.com/06hpathak/CMS-3.0_Django_By_Harsh_Pathak",
+    "source": "https://github.com/06hpathak/CMS-3.0_Django_By_Harsh_Pathak"
+  },
+  {
+    "title": "Blog Website",
+    "imageSrc": "projects/project.png",
+    "description": "I built this project in Python using Django Framework during my internship at Spectrics Solution.",
+    "skills": ["Python","Django","HTML", "JavaScript", "CSS","GitHub"],
+    "demo": "https://github.com/06hpathak/Blogging_Django_Project",
+    "source": "https://github.com/06hpathak/Blogging_Django_Project"
+  },
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "Made this Portfolio website using Rect and Node Js.",
+    "skills": ["React","Node","HTML", "JavaScript", "CSS","GitHub"],
+    "demo": "https://06hpathak.github.io/Portfolio/",
+    "source": "https://github.com/06hpathak/Portfolio"
+  },
+  {
+    "title": "Ecommerce App",
+    "imageSrc": "projects/project.png",
+    "description": "Made this Ecommerce App with Rect and Firebase.",
+    "skills": ["React","Firebase","HTML", "JavaScript", "CSS","GitHub"],
+    "demo": "#",
+    "source": "#"
+  },
+  {
+    "title": "Notepad Application",
+    "imageSrc": "projects/project.png",
+    "description": "Completed this project in C# using .net Framework",
+    "skills": ["C#"],
+    "demo": "https://github.com/06hpathak/Notepad_by_Harsh_Pathak",
+    "source": "https://github.com/06hpathak/Notepad_by_Harsh_Pathak"
+  },
+  {
+    "title": "Calculator Application",
+    "imageSrc": "projects/project.png",
+    "description": "Completed this project in C# using .net Framework",
+    "skills": ["C#"],
+    "demo": "https://github.com/06hpathak/Calculator_Csharp_By_Harsh_Pathak",
+    "source": "https://github.com/06hpathak/Calculator_Csharp_By_Harsh_Pathak"
+  }
+]
